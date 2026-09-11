@@ -73,6 +73,7 @@ sort: by_weight
 阿兰布拉宫	a lan bu la gong	10
 阿累尼乌斯	a lei ni wu si	10
 阿里红咳喘	a li hong ke chuan	10
+阿里山山脉	a li shan shan mai	10
 阿利斯塔克	a li si ta ke	10
 阿里乌主义	a li wu zhu yi	10
 阿里云百炼	a li yun bai lian	10
@@ -130,6 +131,7 @@ sort: by_weight
 爱巴鸟尾蛤	ai ba niao wei ha	10
 爱比克泰德	ai bi ke tai de	10
 爱彼女皇杯	ai bi nv huang bei	10
+爱博而心劳	ai bo er xin lao	10
 爱不爱我吧	ai bu ai wo ba	10
 爱不爱我吗	ai bu ai wo ma	10
 爱不再回来	ai bu zai hui lai	10
@@ -9523,7 +9525,7 @@ sort: by_weight
 垂直斜面下	chui zhi xie mian xia	10
 垂直性斜视	chui zhi xing xie shi	10
 垂直于水面	chui zhi yu shui mian	10
-垂轴放大率	chui zhou fang da shuai	12
+垂轴放大率	chui zhou fang da lv	12
 锤子和扳手	chui zi he ban shou	10
 锤子和镰刀	chui zi he lian dao	10
 锤子与扳手	chui zi yu ban shou	10
@@ -27453,7 +27455,7 @@ sort: by_weight
 后备箱集市	hou bei xiang ji shi	10
 后备指挥部	hou bei zhi hui bu	10
 后鼻孔闭锁	hou bi kong bi suo	10
-后鼻孔填塞	hou bi kong tian sai	10
+后鼻孔填塞	hou bi kong tian se	10
 后鞭毛生物	hou bian mao sheng wu	10
 后标准模型	hou biao zhun mo xing	10
 后场高远球	hou chang gao yuan qiu	10
@@ -35267,6 +35269,7 @@ sort: by_weight
 京口副都统	jing kou fu du tong	10
 净口业真言	jing kou ye zhen yan	10
 敬了个军礼	jing le ge jun li	10
+敬了一个礼	jing le yi ge li	10
 经理办公会	jing li ban gong hui	10
 经理办公室	jing li ban gong shi	10
 精力不集中	jing li bu ji zhong	10
@@ -43529,9 +43532,9 @@ sort: by_weight
 漫湾水电站	man wan shui dian zhan	10
 漫威的电影	man wei de dian ying	10
 漫无目的地	man wu mu di di	10
-满血复活了	man xie fu huo le	10
 满心的欢喜	man xin de huan xi	10
 慢性病监测	man xing bing jian ce	10
+满血复活了	man xue fu huo le	10
 满眼的绿色	man yan de lv se	10
 蔓叶类函数	man ye lei han shu	10
 蔓叶类曲线	man ye lei qu xian	10
@@ -44048,8 +44051,8 @@ sort: by_weight
 没看到似的	mei kan dao shi de	10
 没壳的蜗牛	mei ke de wo niu	10
 梅克尔憩室	mei ke er qi shi	10
+美拉德反应	mei la de fan ying	12
 梅拉德反应	mei la de fan ying	10
-美拉德反应	mei la de fan ying	10
 美拉蒂石鳖	mei la di shi bie	10
 美拉尼西亚	mei la ni xi ya	10
 没来得及吃	mei lai de ji chi	10
@@ -50396,7 +50399,7 @@ sort: by_weight
 铅笔画的美	qian bi hua de mei	10
 前鼻化辅音	qian bi hua fu yin	10
 前臂挤压伤	qian bi ji ya shang	10
-前鼻孔填塞	qian bi kong tian sai	10
+前鼻孔填塞	qian bi kong tian se	10
 前臂内侧缘	qian bi nei ce yuan	10
 倩碧三部曲	qian bi san bu qu	10
 前臂外侧缘	qian bi wai ce yuan	10
@@ -75336,6 +75339,8 @@ sort: by_weight
 星空少女组	xing kong shao nv zu	10
 星空守护者	xing kong shou hu zhe	10
 星空天文网	xing kong tian wen wang	10
+行了三个礼	xing le san ge li	10
+行了一个礼	xing le yi ge li	10
 行乐艺术家	xing le yi shu jia	10
 行李寄存处	xing li ji cun chu	10
 行李领取处	xing li ling qu chu	10
@@ -80692,6 +80697,7 @@ sort: by_weight
 银河号事件	yin he hao shi jian	10
 银河机攻队	yin he ji gong dui	10
 银河级星舰	yin he ji xing jian	10
+银河奇异果	yin he qi yi guo	10
 银河射电支	yin he she dian zhi	10
 银河式算法	yin he shi suan fa	10
 银河守护者	yin he shou hu zhe	10
@@ -84696,6 +84702,7 @@ sort: by_weight
 再来些葱花	zai lai xie cong hua	10
 栽了大跟头	zai le da gen tou	10
 栽了个跟头	zai le ge gen tou	10
+甾类化合物	zai lei hua he wu	10
 在冷战期间	zai leng zhan qi jian	10
 在理发店里	zai li fa dian li	10
 在离婚以后	zai li hun yi hou	10
@@ -90406,7 +90413,6 @@ sort: by_weight
 自来水净化	zi lai shui jing hua	10
 自来水之污	zi lai shui zhi wu	10
 自来也老师	zi lai ye lao shi	10
-甾类化合物	zi lei hua he wu	10
 子类型多态	zi lei xing duo tai	10
 字里行间里	zi li hang jian li	10
 字里行间中	zi li hang jian zhong	10
@@ -91045,7 +91051,7 @@ sort: by_weight
 纵纹腹小鸮	zong wen fu xiao xiao	10
 总武缓行线	zong wu huan xing xian	10
 总武线缓行	zong wu xian huan xing	10
-纵向放大率	zong xiang fang da shuai	10
+纵向放大率	zong xiang fang da lv	10
 纵向分辨率	zong xiang fen bian lv	10
 纵向磨木法	zong xiang mo mu fa	10
 纵向配筋率	zong xiang pei jin lv	10
@@ -94142,7 +94148,7 @@ sort: by_weight
 鼻部肿物切除	bi bu zhong wu qie chu	10
 鼻侧压测量法	bi ce ya ce liang fa	10
 壁橱里的怪物	bi chu li de guai wu	10
-鼻出血鼻填塞	bi chu xie bi tian sai	10
+鼻出血鼻填塞	bi chu xie bi tian se	10
 臂创作性切断	bi chuang zuo xing qie duan	10
 彼此间的感情	bi ci jian de gan qing	10
 彼此心照不宣	bi ci xin zhao bu xuan	10
@@ -100706,7 +100712,7 @@ sort: by_weight
 钓鱼岛护岛者	diao yu dao hu dao zhe	10
 钓鱼翁郊游径	diao yu weng jiao you jing	10
 铫子电气铁道	diao zi dian qi tie dao	10
-蝶鞍脂肪填塞	die an zhi fang tian sai	10
+蝶鞍脂肪填塞	die an zhi fang tian se	10
 跌打扭伤灵酊	die da niu shang ling ding	10
 叠氮化亚硝醯	die dan hua ya xiao xi	10
 喋喋不休的人	die die bu xiu de ren	10
@@ -120557,7 +120563,7 @@ sort: by_weight
 你能原谅我吗	ni neng yuan liang wo ma	10
 你能做得更多	ni neng zuo de geng duo	10
 你能做得更好	ni neng zuo de geng hao	10
-倪妮和井柏然	ni ni he jing bai ran	10
+倪妮和井柏然	ni ni he jing bo ran	10
 你努力的样子	ni nu li de yang zi	10
 拟聘人员公示	ni pin ren yuan gong shi	10
 你抢到票了吗	ni qiang dao piao le ma	10
@@ -123046,7 +123052,7 @@ sort: by_weight
 清朝野史大观	qing chao ye shi da guan	10
 清朝直隶总督	qing chao zhi li zong du	10
 清朝宗室爵位	qing chao zong shi jue wei	10
-清齿龈塞擦音	qing chi yin sai ca yin	10
+清齿龈塞擦音	qing chi yin se ca yin	10
 清除害群之马	qing chu hai qun zhi ma	10
 清除记忆基因	qing chu ji yi ji yin	10
 清除精神污染	qing chu jing shen wu ran	10
@@ -123390,7 +123396,7 @@ sort: by_weight
 庆僖亲王永璘	qing xi qin wang yong lin	10
 清香白莲素素	qing xiang bai lian su su	10
 情相依避孕套	qing xiang yi bi yun tao	10
-清小舌塞擦音	qing xiao she sai ca yin	10
+清小舌塞擦音	qing xiao she se ca yin	10
 清孝庄文皇后	qing xiao zhuang wen huang hou	10
 清泻肝胆实火	qing xie gan dan shi huo	10
 倾斜式成形器	qing xie shi cheng xing qi	10
@@ -136335,7 +136341,7 @@ sort: by_weight
 信报财经新闻	xin bao cai jing xin wen	10
 信报财经月刊	xin bao cai jing yue kan	10
 忻保高速公路	xin bao gao su gong lu	10
-心包压塞填塞	xin bao ya sai tian sai	10
+心包压塞填塞	xin bao ya sai tian se	10
 新编诸子集成	xin bian zhu zi ji cheng	10
 新表现新问题	xin biao xian xin wen ti	10
 新柏拉图学派	xin bo la tu xue pai	10
@@ -140051,7 +140057,7 @@ sort: by_weight
 阴道闭锁切开	yin dao bi suo qie kai	10
 阴道部分切除	yin dao bu fen qie chu	10
 阴道残端出血	yin dao can duan chu xie	10
-阴道产科填塞	yin dao chan ke tian sai	10
+阴道产科填塞	yin dao chan ke tian se	10
 阴道超探头套	yin dao chao tan tou tao	10
 阴道发育不全	yin dao fa yu bu quan	10
 阴道发育异常	yin dao fa yu yi chang	10
